@@ -7,7 +7,7 @@ LICENSE = "Apache-2.0"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=e23fadd6ceef8c618fc1c65191d846fa"
 
 SRC_URI = "git://github.com/yoriito/yoriito-vss.git;protocol=https;branch=main"
-SRCREV = "b0cdd529e2f1521e601f2c384f884d36965693b2"
+SRCREV = "5188e946bc68fefd75882ceb5db115c75e67dd1c"
 
 S = "${WORKDIR}/git"
 
